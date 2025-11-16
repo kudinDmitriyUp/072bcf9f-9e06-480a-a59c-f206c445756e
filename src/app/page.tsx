@@ -48,7 +48,7 @@ export default function Home() {
           tagIcon={Sparkles}
           mediaItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35a7P1i3U8nbKvxlC9pMeozlemI/uploaded-1763336371931-q4m0afgp.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_35a7P1i3U8nbKvxlC9pMeozlemI/uploaded-1763336373363-tnq497h8.jpg",
               imageAlt: "Creative portfolio work 1"
             },
             {
