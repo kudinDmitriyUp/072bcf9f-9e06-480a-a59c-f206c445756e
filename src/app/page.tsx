@@ -42,7 +42,7 @@ export default function Home() {
 
       <div id="hero" data-section="hero">
         <HeroBillboardGallery
-          title="Creative Director & Designer"
+          title="Yashar Rakei"
           description="Crafting compelling visual narratives and brand experiences that resonate with audiences and drive meaningful connections"
           tag="Portfolio"
           tagIcon={Sparkles}
